@@ -489,7 +489,7 @@ st.markdown(
     f"""
     <hr>
     <div style="text-align: center; font-size: 0.85rem; color: {AGTECH_COLORS['text_muted']}; margin-top: 0.5rem;">
-        Built by <b>Melisa Cardozo</b> · Data Analyst / Data Scientist (AgTech)
+        Built by <b>Melisa Cardozo</b> · Data Analyst / Data Scientist 
     </div>
     """,
     unsafe_allow_html=True,
@@ -503,5 +503,6 @@ st.markdown(
     """,
     unsafe_allow_html=True,
 )
+
 
 
