@@ -494,7 +494,7 @@ st.markdown(
     """,
     unsafe_allow_html=True,
 )
-```python
+
 st.markdown(
     f"""
     <div style="text-align:center; font-size:0.8rem; color:{AGTECH_COLORS['text_muted']}; margin-top:0.5rem;">
@@ -503,4 +503,5 @@ st.markdown(
     """,
     unsafe_allow_html=True,
 )
+
 
